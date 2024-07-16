@@ -11,7 +11,7 @@ body{
 
 button{
     position: absolute;
-    left: 20px;
+    right: 20px;
     top: 20px;
     border: none;
     background-color: rgb(201, 189, 176);
